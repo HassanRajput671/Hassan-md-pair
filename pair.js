@@ -88,7 +88,7 @@ var randomItem = selectRandomItem(items);
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  ★ || ᴏᴡɴᴇʀ = https://wa.link/mk4uhx
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B
+ ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vb0y7mxBvvskntdFVp32
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/HassanRajput671/HASSAN-MD 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -98,7 +98,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐎𝐎𝐓•••²⁴³⁰",
-thumbnailUrl: "https://i.ibb.co/YdSKMhv/6767.jpg",
+thumbnailUrl: "https://i.ibb.co/qLYkH5Xq/1674.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb0y7mxBvvskntdFVp32",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -108,13 +108,13 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Don't Share with anyone this code use for deploy SHEIKH-ALI-MD*\n\n ◦ *Github:* https://github.com/HassanRajput671/HASSAN-MD.git`;
+                            let desc = `*Don't Share with anyone this code use for deploy HASSAN-MD*\n\n ◦ *Github:* https://github.com/HassanRajput671/HASSAN-MD.git`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐎𝐎𝐓•••²⁴³⁰",
-thumbnailUrl: "https://i.ibb.co/YdSKMhv/6767.jpg",
+thumbnailUrl: "https://i.ibb.co/qLYkH5Xq/1674.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb0y7mxBvvskntdFVp32",
 mediaType: 2,
 renderLargerThumbnail: true,
